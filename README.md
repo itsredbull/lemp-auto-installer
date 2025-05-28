@@ -15,6 +15,18 @@ A comprehensive, automated LEMP (Linux, Nginx, MariaDB, PHP) stack installer tha
 - **M**ariaDB/MySQL - Database Server  
 - **P**HP - Server-side Scripting Language
 
+## Install with One Click 🚀  
+
+Deploy this script effortlessly on your **[MyHBD.net](https://www.myhbd.net)** server with just a single click!  
+
+### Why Choose MyHBD.net?  
+✅ High-performance VPS solutions  
+✅ Multiple data centers across Europe & Asia  
+✅ Reliable and optimized for seamless deployment  
+
+Start now and streamline your server setup with ease!  
+
+
 ## ✨ Features
 
 - **Universal compatibility**: Works across 10+ Linux distributions
